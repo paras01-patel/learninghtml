@@ -1,0 +1,3 @@
+01> what is opterting systum?
+
+ Ans = An Operating System is a System software that manages all the resources of the computing deice.
